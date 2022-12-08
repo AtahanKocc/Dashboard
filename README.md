@@ -73,3 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ## Project Details
 This is a "React Admin Panel" project. Also, It's Styled Components library is used.
 I used jsx syntax because thanks to this jsx it's very easy writing.
+
+## Project Screenshot
+![2022-12-08](https://user-images.githubusercontent.com/64138592/206449936-446ce169-c4e5-423c-8a8a-8def4ab170da.png)
